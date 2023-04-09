@@ -1,7 +1,7 @@
 # MODULES1
 
 from Modules2 import validate_and_execute, user_input_message
-# from Modules2 import * ### Importa a porra toda
+# from Modules2 import * ### Importa tudo
 #import Modules2 as nome_temporario ### Importa batizando com outro nome
 
 #built in Modules
